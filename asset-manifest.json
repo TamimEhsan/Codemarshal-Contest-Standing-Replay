@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41786c6b.css",
+    "main.js": "/static/js/main.56dfb0a1.js",
+    "static/js/787.05460a93.chunk.js": "/static/js/787.05460a93.chunk.js",
+    "static/media/ICPC2021.txt": "/static/media/ICPC2021.f812f9beb4abad25d3e0.txt",
+    "index.html": "/index.html",
+    "main.41786c6b.css.map": "/static/css/main.41786c6b.css.map",
+    "main.56dfb0a1.js.map": "/static/js/main.56dfb0a1.js.map",
+    "787.05460a93.chunk.js.map": "/static/js/787.05460a93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41786c6b.css",
+    "static/js/main.56dfb0a1.js"
+  ]
+}
