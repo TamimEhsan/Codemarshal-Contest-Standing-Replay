@@ -18,5 +18,6 @@ You can view ICPC 2021 Dhaka Regionals final which is already loaded. Or you can
 - Wait a bit to load the file (The page will have the final standings then)
 - After the file is loaded into memory press start
 
+PS: This weird saving html file was done due cors issues. It is what it is 😔
 ## Preveiw
 ![](Assets/demo.gif)
