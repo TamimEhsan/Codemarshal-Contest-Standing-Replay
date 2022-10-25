@@ -3,9 +3,14 @@ After each contest I had to speculate how were our performance througout the who
 timeline feature so it was kinda difficult to estimate. So, I made this.
 
 ## How to use
+**USE DESKTOP OR LAPTOP TO VISIT SITE.** Mobile site doesn't work T = T
+
+
 Goto [Codemarshal Contest timeline](https://tamimehsan.github.io/Codemarshal-Contest-Standing-Replay/)
 And you'll find something like this.
 ![](Assets/load.jpg)
+
+
 You can view ICPC 2021 Dhaka Regionals final which is already loaded. Or you can do replay anyone by doing the following steps
 
 - Goto a contest page in codemarshal
